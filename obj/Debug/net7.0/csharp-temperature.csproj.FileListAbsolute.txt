@@ -1,0 +1,15 @@
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.csproj.AssemblyReference.cache
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.AssemblyInfoInputs.cache
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.AssemblyInfo.cs
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.csproj.CoreCompileInputs.cache
+/Users/sundehakon/Documents/lekser/csharp-temperature/bin/Debug/net7.0/csharp-temperature
+/Users/sundehakon/Documents/lekser/csharp-temperature/bin/Debug/net7.0/csharp-temperature.deps.json
+/Users/sundehakon/Documents/lekser/csharp-temperature/bin/Debug/net7.0/csharp-temperature.runtimeconfig.json
+/Users/sundehakon/Documents/lekser/csharp-temperature/bin/Debug/net7.0/csharp-temperature.dll
+/Users/sundehakon/Documents/lekser/csharp-temperature/bin/Debug/net7.0/csharp-temperature.pdb
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.dll
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/refint/csharp-temperature.dll
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.pdb
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/csharp-temperature.genruntimeconfig.cache
+/Users/sundehakon/Documents/lekser/csharp-temperature/obj/Debug/net7.0/ref/csharp-temperature.dll
