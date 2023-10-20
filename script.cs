@@ -1,5 +1,5 @@
 Console.Write("Skriv inn et tall:");
-string tall = Console.ReadLine();
+string? tall = Console.ReadLine();
 
 try
 {
