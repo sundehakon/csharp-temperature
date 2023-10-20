@@ -1,1 +1,6 @@
-# csharp-temperature
+# C# Temperature
+Made a temperature calculator for an assignment in class, using c#. 
+The calculator translates to both kelvin and fahrenheit, from celsius.
+
+# Online compiler (tester)
+https://dotnetfiddle.net/fDdmSu
